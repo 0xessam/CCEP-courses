@@ -119,13 +119,13 @@
 
 <details>
 
- <summary>Electro Magnetic Fundementals</summary> 
+ <summary>ElectroMagnetic Fundementals</summary> 
  
 #### playlists
 
-📹[Electro Magnetic playlist (M-Maher)(Arabic)](https://www.youtube.com/watch?v=Zngydh4EiUc&list=PLm877Wx3hfJ26h1I9bJdNnH3nPqrvDb-N)
+📹[ElectroMagnetic playlist (M-Maher)(Arabic)](https://www.youtube.com/watch?v=Zngydh4EiUc&list=PLm877Wx3hfJ26h1I9bJdNnH3nPqrvDb-N)
 
-📹[Electro Magnetic playlist (low Hindi English)](https://www.youtube.com/playlist?list=PLm_MSClsnwm-w_oyXiPFYgtn-oreRmN9Q)
+📹[ElectroMagnetic playlist (low Hindi English)](https://www.youtube.com/playlist?list=PLm_MSClsnwm-w_oyXiPFYgtn-oreRmN9Q)
 
 
 
