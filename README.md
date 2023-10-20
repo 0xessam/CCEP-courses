@@ -71,6 +71,10 @@
  
 #### playlists
 
+📹[CS221: Digital Design playlist(Waleed A. Yousef) (Arabic)](https://www.youtube.com/playlist?list=PLZNz7wrFA85Antgz1o79xCn1O2nwDEkLH)
+
+
+
 📹[Logic design playlist(M-Maher) (Arabic)](https://www.youtube.com/playlist?list=PLm877Wx3hfJ2ZKirS9kzoVRKTEOOt8Cq-)
 
 
