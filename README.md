@@ -13,9 +13,9 @@
 #### palylists
 
 
-📹 Data Structures Course (بالعربي) (java)[ [linear Data Structures]](https://www.youtube.com/playlist?list=PLrW6ND2wzt4o4kYvTrk1xQjCLiIumqTL3) [[Trees] ](https://www.youtube.com/playlist?list=PLrW6ND2wzt4qGiB9xQIltEOv_dUFTFfq9
-)[[Searching Algorithms]](https://www.youtube.com/playlist?list=PLrW6ND2wzt4rnEsy9xTzGFkI9duFD9X91
-)[[Sorting Algorithms]](https://www.youtube.com/playlist?list=PLrW6ND2wzt4qVfoiiblU95KOWuEnI3xDV
+📹 Data Structures Course (بالعربي) (java)[ [linear Data Structures]](https://www.youtube.com/playlist?list=PLrW6ND2wzt4o4kYvTrk1xQjCLiIumqTL3) + [[Trees] ](https://www.youtube.com/playlist?list=PLrW6ND2wzt4qGiB9xQIltEOv_dUFTFfq9
+) + [[Searching Algorithms]](https://www.youtube.com/playlist?list=PLrW6ND2wzt4rnEsy9xTzGFkI9duFD9X91
+) + [[Sorting Algorithms]](https://www.youtube.com/playlist?list=PLrW6ND2wzt4qVfoiiblU95KOWuEnI3xDV
 )
 
 📹 [Data Structures Easy to Advanced Course - Full Tutorial from a Microsoft Engineer (بالعربي) (java) ](https://www.youtube.com/watch?v=eNOZjwJVIxg&list=PLF8OvnCBlEY3a1pbPrE6fvNuV3qi-6KRf)
